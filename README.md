@@ -1,5 +1,7 @@
 # 基于springboot实现的记账系统项目
 
+<h4 style='color:red'>联系不到我，就看我的主页 </h4> 
+ 
 #### 介绍
 基于springboot实现的记账系统项目，前端采用html+layui，代码规范整洁，技术选型也非常经典，合适初学java编程者学习以及企业级项目的入门。
 
